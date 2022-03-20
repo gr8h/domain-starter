@@ -1,6 +1,10 @@
 {
   "name": "domain-portal",
+  "author": "Hesham Shabanah",
+  "email": "hesham.shabana@hotmail.com",
+  "license": "MIT",
   "version": "0.0.1",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",

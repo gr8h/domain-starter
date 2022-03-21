@@ -288,7 +288,7 @@ const App = () => {
 				<input
 					type="text"
 					value={record}
-					placeholder='whats ur ninja power'
+					placeholder='whats ur power'
 					onChange={e => setRecord(e.target.value)}
 				/>
 				{editing ? (
